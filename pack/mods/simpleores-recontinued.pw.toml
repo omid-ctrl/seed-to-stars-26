@@ -1,0 +1,13 @@
+name = "SimpleOres Recontinued"
+filename = "simpleores-2.2.6-26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boe3chj8/versions/njaNNlGE/simpleores-2.2.6-26.3-fabric.jar"
+hash-format = "sha512"
+hash = "23fd1ce9c2ca6590f4da0f3d3fa86d0919d80e2a2cd0300670245ce5fed9036f618599b97c055ff5c7d4fc853d604e3e9aa323e6922e6751002b098d42843c8c"
+
+[update]
+[update.modrinth]
+mod-id = "Boe3chj8"
+version = "njaNNlGE"

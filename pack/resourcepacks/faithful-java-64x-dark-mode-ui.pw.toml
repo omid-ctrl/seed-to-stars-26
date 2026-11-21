@@ -1,0 +1,13 @@
+name = "Faithful Java 64x - Dark Mode UI"
+filename = "F64x - Dark Mode R2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZSAWWDEn/versions/ep9lOVD4/F64x%20-%20Dark%20Mode%20R2.zip"
+hash-format = "sha512"
+hash = "0d3a5ac5786e606a21a941663ef1b26413665f6aa1e554071b2127a27c303473525d9e5047ff7948f2b48b0a200855f835b44b6a12521b3d49ee562e713e3d6e"
+
+[update]
+[update.modrinth]
+mod-id = "ZSAWWDEn"
+version = "ep9lOVD4"

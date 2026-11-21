@@ -1,0 +1,8 @@
+[Unit]
+Description=Seed to Stars 26.3 daily world backup
+
+[Service]
+Type=oneshot
+ExecStart=%h/minecraft/sts26-ops/backup.sh
+Nice=10
+CPUWeight=20

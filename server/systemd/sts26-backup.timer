@@ -1,0 +1,9 @@
+[Unit]
+Description=Daily backup of the Seed to Stars 26.3 world
+
+[Timer]
+OnCalendar=*-*-* 05:40
+Persistent=true
+
+[Install]
+WantedBy=timers.target

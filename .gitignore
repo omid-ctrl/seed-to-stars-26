@@ -1,0 +1,7 @@
+dist/
+mod-keys/build/
+mod-keys/.gradle/
+mod-keys/run/
+**/__pycache__/
+*.pyc
+.DS_Store

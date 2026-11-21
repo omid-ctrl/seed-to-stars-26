@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "quarryplus:adv_quarry"
+    },
+    "title": {
+      "text": "Chunk Destroyer"
+    },
+    "description": {
+      "text": "The Advanced Quarry digs whole chunks down to bedrock."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quarryplus:adv_quarry"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "sts:guide/quarry"
+}

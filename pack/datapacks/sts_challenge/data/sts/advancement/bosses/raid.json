@@ -1,0 +1,23 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:bell"
+    },
+    "title": {
+      "text": "Win a Raid"
+    },
+    "description": {
+      "text": "Drink an Ominous Bottle near a village and beat every wave."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

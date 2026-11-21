@@ -1,0 +1,13 @@
+name = "Additional Enchanted Miner"
+filename = "AdditionalEnchantedMiner-26.3-fabric-26.30.166.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jhxX1zVW/versions/AfkSutAi/AdditionalEnchantedMiner-26.3-fabric-26.30.166.jar"
+hash-format = "sha512"
+hash = "b305c76b8ebdb538faddfc52cfbe5c344c1e8c2de10a9dba695c4605379a7afa56ac28b899eaedbc332ff9feffe9cf072a15e4c4a35bbb5d5fc7d38abd28745b"
+
+[update]
+[update.modrinth]
+mod-id = "jhxX1zVW"
+version = "AfkSutAi"

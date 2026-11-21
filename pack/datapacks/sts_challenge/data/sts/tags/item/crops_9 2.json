@@ -1,0 +1,115 @@
+{
+  "values": [
+    "minecraft:hay_block",
+    "minecraft:melon",
+    "minecraft:nether_wart_block",
+    {
+      "id": "farmersdelight:carrot_crate",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:potato_crate",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:beetroot_crate",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_crate",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:onion_crate",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato_crate",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice_bale",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_crate",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_cob_crate",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cucumber_crate",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:eggplant_crate",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:white_eggplant_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:cotton_boll_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:coffee_beans_bag",
+      "required": false
+    },
+    {
+      "id": "ubesdelight:garlic_crate",
+      "required": false
+    },
+    {
+      "id": "ubesdelight:ginger_crate",
+      "required": false
+    },
+    {
+      "id": "ubesdelight:lemongrass_crate",
+      "required": false
+    },
+    {
+      "id": "ubesdelight:ube_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_green_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_yellow_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_red_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_orange_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_white_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_pink_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_blue_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_purple_crate",
+      "required": false
+    },
+    {
+      "id": "rusticdelight:bell_pepper_black_crate",
+      "required": false
+    }
+  ]
+}

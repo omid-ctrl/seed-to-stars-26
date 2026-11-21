@@ -1,0 +1,32 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:spyglass"
+    },
+    "title": {
+      "text": "Illusioner"
+    },
+    "description": {
+      "text": "Friends & Foes: an illager that hides among copies of itself."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "friendsandfoes:illusioner"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "BucketLib"
+filename = "bucketlib-fabric-26.3-5.3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DItE655o/versions/118fAibi/bucketlib-fabric-26.3-5.3.0.1.jar"
+hash-format = "sha512"
+hash = "7dd234a260a166955ac1a0179be6886aaf23166a72fdf2b9b020499b4b635fadf9ceb865ea9d8e645df58cd35573158c405a5103491ea7fd59fc5122eb17b195"
+
+[update]
+[update.modrinth]
+mod-id = "DItE655o"
+version = "118fAibi"

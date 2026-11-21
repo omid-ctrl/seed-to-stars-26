@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-3.0.11+26.3.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/pUGKenTt/energizedpower-3.0.11%2B26.3.x-fabric.jar"
+hash-format = "sha512"
+hash = "ee67150330ec6adb08e0c92caad707b64db9da8964d63b5b5c9857f3941aab11b76b3eca4b83a5ea7ddc8b026192a89bf70f04cc6db36abc06c3590bf53dd071"
+
+[update]
+[update.modrinth]
+mod-id = "6pku8gW1"
+version = "pUGKenTt"

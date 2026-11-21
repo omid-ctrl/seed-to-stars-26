@@ -1,0 +1,32 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:fire_charge"
+    },
+    "title": {
+      "text": "Wildfire"
+    },
+    "description": {
+      "text": "Friends & Foes boss of the Nether. Break its shields first; it drops a crown."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "friendsandfoes:wildfire"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:beacon"
+    },
+    "title": {
+      "text": "Boss Slayer"
+    },
+    "description": {
+      "text": "Every boss above defeated."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

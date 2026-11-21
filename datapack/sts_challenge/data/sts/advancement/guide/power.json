@@ -1,0 +1,68 @@
+{
+  "display": {
+    "icon": {
+      "id": "energizedpower:coal_engine"
+    },
+    "title": {
+      "text": "Power Up"
+    },
+    "description": {
+      "text": "Energized Power: a Coal Engine burns fuel and Solar Cells drink daylight. Copper cables carry the energy."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:coal_engine"
+          }
+        ]
+      }
+    },
+    "has_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:basic_solar_cell"
+          }
+        ]
+      }
+    },
+    "has_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:heat_generator"
+          }
+        ]
+      }
+    },
+    "has_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "energizedpower:thermal_generator"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "sts:guide/vault",
+  "requirements": [
+    [
+      "has_0",
+      "has_1",
+      "has_2",
+      "has_3"
+    ]
+  ]
+}

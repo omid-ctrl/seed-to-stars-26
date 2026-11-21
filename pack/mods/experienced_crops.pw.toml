@@ -1,0 +1,13 @@
+name = "Experienced Crops"
+filename = "experienced_crops-1.2.0+26.1.2-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Obi0OZ4c/versions/miGB6VYp/experienced_crops-1.2.0%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "a2c9f0039307f121d447837eb2cbd89848725aa9f61f9127585ba82408229045085ee49fa0c10f6150956dbce633af5800f3dc12e60e2ff37b16cf9de2c919e4"
+
+[update]
+[update.modrinth]
+mod-id = "Obi0OZ4c"
+version = "miGB6VYp"

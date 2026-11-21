@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:hay_block"
+    },
+    "title": {
+      "text": "The Harvest Silo"
+    },
+    "description": {
+      "text": "Craft it: a barrel ringed by 8 hay bales. Place it and feed it crops. Hay bales and crates count as 9."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:barrel",
+            "predicates": {
+              "minecraft:custom_data": "{sts:\"silo\"}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "sts:guide/root"
+}

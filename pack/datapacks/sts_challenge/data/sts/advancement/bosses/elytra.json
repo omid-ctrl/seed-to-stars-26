@@ -1,0 +1,30 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:elytra"
+    },
+    "title": {
+      "text": "Wings of the End"
+    },
+    "description": {
+      "text": "End Cities, through the gateway that opens after the dragon."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:elytra"
+          }
+        ]
+      }
+    }
+  }
+}

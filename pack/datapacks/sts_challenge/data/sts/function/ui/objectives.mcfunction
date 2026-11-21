@@ -1,0 +1,4 @@
+execute as @a[advancements={minecraft:adventure/hero_of_the_village=true,sts:bosses/raid=false}] run advancement grant @s only sts:bosses/raid
+execute as @a[advancements={minecraft:adventure/minecraft_trials_edition=true,sts:bosses/trial=false}] run advancement grant @s only sts:bosses/trial
+execute as @a[advancements={minecraft:adventure/revaulting=true,sts:bosses/ominous_vault=false}] run advancement grant @s only sts:bosses/ominous_vault
+execute as @a[advancements={sts:bosses/dragon=true,sts:bosses/wither=true,sts:bosses/elder=true,sts:bosses/warden=true,sts:bosses/wildfire=true,sts:bosses/iceologer=true,sts:bosses/illusioner=true,sts:bosses/mutant_zombie=true,sts:bosses/mutant_skeleton=true,sts:bosses/mutant_creeper=true,sts:bosses/mutant_enderman=true,sts:bosses/all_bosses=false}] run advancement grant @s only sts:bosses/all_bosses

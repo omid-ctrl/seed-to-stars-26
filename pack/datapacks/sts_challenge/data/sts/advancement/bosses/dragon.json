@@ -1,0 +1,32 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:dragon_head"
+    },
+    "title": {
+      "text": "Ender Dragon"
+    },
+    "description": {
+      "text": "The End: break the End Crystals on the pillars, then the dragon."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:ender_dragon"
+          }
+        }
+      }
+    }
+  }
+}

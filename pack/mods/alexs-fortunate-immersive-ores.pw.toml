@@ -1,0 +1,13 @@
+name = "Immersive Ores: Fortune Compatibility - More Ore Drops"
+filename = "alexs-fortunate-immersive-ores-2.0.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jBFKK8RP/versions/jqWmsw03/alexs-fortunate-immersive-ores-2.0.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "60e8ed930b8aee4095a5be6186f165f8f9101b877af99e9916564df00be8e37ac3971f47e452abcfa9274cf3b250f381e930c8e159ec4ab6a927b02d9a4947ab"
+
+[update]
+[update.modrinth]
+mod-id = "jBFKK8RP"
+version = "jqWmsw03"

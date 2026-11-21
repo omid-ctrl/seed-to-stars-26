@@ -1,0 +1,13 @@
+name = "Immersive Storms"
+filename = "immersive-storms-1.8.0+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SdJDElEu/versions/iArYgr87/immersive-storms-1.8.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "250d8ea745fab7984f9a9c42f82a30956d1bc976fd322111c940c0e9a0e5d61f692adec62541eb69e610d8f0f59f4ec05cc7498b50e5ef05adf24c65550871fe"
+
+[update]
+[update.modrinth]
+mod-id = "SdJDElEu"
+version = "iArYgr87"

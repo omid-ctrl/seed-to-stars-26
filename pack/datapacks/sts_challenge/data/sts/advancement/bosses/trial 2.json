@@ -1,0 +1,23 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:trial_key"
+    },
+    "title": {
+      "text": "Trial Chambers"
+    },
+    "description": {
+      "text": "Find a Trial Chamber underground and step inside."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

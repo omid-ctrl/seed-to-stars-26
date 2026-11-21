@@ -1,0 +1,13 @@
+name = "Cultural Delights"
+filename = "culturaldelights-26.3-0.19.8.4-refabricated.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YttyNOFA/versions/Tm0VloHM/culturaldelights-26.3-0.19.8.4-refabricated.jar"
+hash-format = "sha512"
+hash = "b67f6b5183d57a3a198d2ef90df8466d2e32f426d6874e22a72f25433b84b92f445482c06c470f982fea754813dc9f4d6d8465a257a90ec50706e57bee5cd077"
+
+[update]
+[update.modrinth]
+mod-id = "YttyNOFA"
+version = "Tm0VloHM"

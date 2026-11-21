@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globalpacks-fabric-26.3-26.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/IoZrWiHZ/globalpacks-fabric-26.3-26.3.3.jar"
+hash-format = "sha512"
+hash = "9bc1ea3b05c6f99cd8df5b2b0d3e2831a66175eb2a8195999ca550a21c00215f9192c9d7f3d48b711fde45d5bfa3bf21b6ee26518bee80440768af5bbdf27310"
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "IoZrWiHZ"

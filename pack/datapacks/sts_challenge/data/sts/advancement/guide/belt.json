@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:belt_connector"
+    },
+    "title": {
+      "text": "On the Belt"
+    },
+    "description": {
+      "text": "A belt into a hopper on the Silo makes the whole farm count itself."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create:belt_connector"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "sts:guide/harvester"
+}

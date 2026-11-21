@@ -1,0 +1,32 @@
+{
+  "parent": "sts:bosses/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:creeper_head"
+    },
+    "title": {
+      "text": "Mutant Creeper"
+    },
+    "description": {
+      "text": "Rare night spawn, or splash Chemical X on a creeper."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "mutantmonsters:mutant_creeper"
+          }
+        }
+      }
+    }
+  }
+}

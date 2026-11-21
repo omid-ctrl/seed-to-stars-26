@@ -1,0 +1,16 @@
+[Unit]
+Description=Seed to Stars 26.3 Minecraft server (Fabric 26.3, port 25566)
+Documentation=file://%h/minecraft/sts26-ops/
+After=network-online.target
+
+[Service]
+WorkingDirectory=%h/minecraft/sts26
+ExecStart=%h/minecraft/sts26/jre/bin/java @user_jvm_args.txt -jar fabric-server.jar nogui
+Restart=on-failure
+RestartSec=15
+SuccessExitStatus=0 143
+KillSignal=SIGTERM
+TimeoutStopSec=180
+
+[Install]
+WantedBy=default.target

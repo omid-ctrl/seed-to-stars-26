@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "sts_keys",
+	"version": "${version}",
+	"name": "Seed to Stars Keys",
+	"description": "Rebindable keys that run the Seed to Stars datapack triggers.",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"sts.keys.StsKeysClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

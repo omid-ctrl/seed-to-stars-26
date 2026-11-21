@@ -1,0 +1,19 @@
+name: packwiz
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+      - run: go install github.com/packwiz/packwiz@latest
+      - name: pack/index.toml is up to date
+        working-directory: pack
+        run: |
+          "$(go env GOPATH)/bin/packwiz" refresh
+          git diff --exit-code -- . || { echo "::error::Run 'packwiz refresh' in pack/ and commit index.toml"; exit 1; }

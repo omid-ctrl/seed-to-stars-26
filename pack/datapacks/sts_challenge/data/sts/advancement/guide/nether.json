@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:obsidian"
+    },
+    "title": {
+      "text": "Into the Fire"
+    },
+    "description": {
+      "text": "Light a Nether portal: 10 obsidian and flint and steel. Fortresses hold blazes and wither skeletons."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enter": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "parent": "sts:guide/root"
+}

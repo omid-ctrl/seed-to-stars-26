@@ -1,0 +1,13 @@
+name = "Compatibility Patch for Faithful64x & FreshAnimations"
+filename = "Faithful64x-FreshAnimations-v1.10.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ce8f6IKT/versions/TLRchmTI/Faithful64x-FreshAnimations-v1.10.4.zip"
+hash-format = "sha512"
+hash = "2dc0fe75e04bb889b3bd8b9d387c5349f3d57325d8839aa77a02667eba5c9831c11295c7ac582556eeb223664560be6ab041f35bd52df7343cfd9f5995b639ac"
+
+[update]
+[update.modrinth]
+mod-id = "ce8f6IKT"
+version = "TLRchmTI"

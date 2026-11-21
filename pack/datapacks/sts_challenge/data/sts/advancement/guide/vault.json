@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:obsidian"
+    },
+    "title": {
+      "text": "The Ore Vault"
+    },
+    "description": {
+      "text": "Craft it: a barrel with 4 iron blocks and 4 obsidian. The Great Vault wants 64 diamond, 32 emerald, 512 iron, 256 gold, 256 copper, 128 redstone, 128 lapis, 4 netherite blocks."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:barrel",
+            "predicates": {
+              "minecraft:custom_data": "{sts:\"vault\"}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "sts:guide/root"
+}

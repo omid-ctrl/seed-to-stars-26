@@ -1,0 +1,13 @@
+name = "Ravageous Tornadoes"
+filename = "ravageous-tornadoes-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mhzZn0Sm/versions/92cxZUVs/ravageous-tornadoes-1.1.2.jar"
+hash-format = "sha512"
+hash = "3aceb3f883412173e9b85e6e7a654479182021939e9689ba22d1fd2e11609947a5823fb7978fb0aa41434e1e0e9699c40c649e5910fc47fae0ebafef02c850ce"
+
+[update]
+[update.modrinth]
+mod-id = "mhzZn0Sm"
+version = "92cxZUVs"

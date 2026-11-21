@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:wheat_seeds"
+    },
+    "title": {
+      "text": "Seed to Stars"
+    },
+    "description": {
+      "text": "Fill the Harvest Silo with a million crops and the Great Vault with ore blocks, and beat the bosses on the way. /trigger sts_status shows progress."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:gui/advancements/backgrounds/husbandry"
+  },
+  "criteria": {
+    "joined": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "sts:harvest_silo",
+      "sts:ore_vault"
+    ]
+  }
+}
