@@ -19,8 +19,7 @@ BACKUPS = os.path.join(HOME, "minecraft/sts26-backups")
 PROPS = os.path.join(SERVER, "server.properties")
 LOG = os.path.join(SERVER, "logs/latest.log")
 WORLDS = {"crash": "The Crash (Island)", "winter": "Eternal Winter (Snow)", "islands": "Tiny Islands (Ocean)",
-          "wasteland": "Wasteland (Desert)", "amplified": "Amplified Snow (fresh world)",
-          "standard": "Standard BOP, snow start (fresh world)"}
+          "wasteland": "Wasteland (Desert)", "frost": "Frost (hard, snow seed)"}
 KEEP_BACKUPS = 5
 PREGEN_RADIUS = 1500
 MARK = re.compile(r"^\[[0-9:]+\] \[Server thread/INFO\]: \[Server\] STSWORLD\|switch\|([a-z]+)$")
@@ -74,7 +73,7 @@ def backup(key):
     log(f"backed up {key} -> {dst}")
 
 
-SNOW_START = {"amplified", "standard"}   # fresh worlds whose spawn is moved into the nearest snowy biome on first boot
+SNOW_START = {"frost"}   # fresh worlds whose spawn is moved into the nearest snowy biome on first boot
 
 
 def snow_spawn(key):

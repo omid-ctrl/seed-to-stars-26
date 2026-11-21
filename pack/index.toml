@@ -338,11 +338,6 @@ hash = "1902870887f8aa75b3b1880bc7295d10312265dac408d361aad6019f2cb56872"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "aa965cc0c52d41916a9713a7e34be18fccd88f68e09f8c82daaae3cc775c153e"
-metafile = true
-
-[[files]]
 file = "mods/bucketlib.pw.toml"
 hash = "40ce1c20626a6803bbbd1315a1823f18974c6cd2a4b63b6c65fc9ca5edce4f70"
 metafile = true
