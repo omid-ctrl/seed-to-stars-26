@@ -1,0 +1,8 @@
+name = "Sanjay Gupta's Best Workers!"
+filename = "villagerhuts-0.3.1+fabric-26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/nenwam/villager-huts/releases/download/v0.3.1-fabric-26.3/villagerhuts-0.3.1%2Bfabric-26.3.jar"
+hash-format = "sha512"
+hash = "189a4cf1131f537fded4869dab44e58fe4db17cf5f6c067fe6ff99774edab523237c45faafa28a17b906186dcad10cc82b3a9839938c960efd95f390ad557162"

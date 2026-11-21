@@ -897,6 +897,11 @@ hash = "7efa6a23df77ca50e6c70595cb2557da95772d9239ffd1936bacc95c39e49eba"
 metafile = true
 
 [[files]]
+file = "mods/villager-huts.pw.toml"
+hash = "0e0670e40305fe8938c56a5ade0c8506357fb10c8aced7df8f319d84642988e4"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "b4a557e5ad7c451c340377db4e784b50ac2affb784cab7f3624d0e6bd8b50231"
 metafile = true
