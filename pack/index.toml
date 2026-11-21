@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/crops-love-rain.pw.toml"
-hash = "4276514e7728b59dd598c137609657285768ab383db0526472210f5bb600f80e"
+hash = "1f9e2dfa24d55dc94419fd614cafd2d4594fb192deec1bfca68463048c388d37"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/experienced_crops.pw.toml"
-hash = "fe5c470500ffdaf35785fa72b296a7dc8dc1553143ee937124ec6edfbebe3622"
+hash = "be457fdfc3dcd25a7e8e47845d687312fb2afca9c6cd5e6cba17d265cbdffeab"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "e98be0d8ab66be0359550a512601d5012d12ed3cf79eeff165cf7b71a9d27aa8"
+hash = "0546b1ffff8f721de68cf4e8963390b37de255d9c117bbb0370ae645e68839ca"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "7af31ba6f410c0f3d33b60b35de3c2a3a1e8ccba2f479bb36e72232e3984618b"
+hash = "7e727aee7db779b1a4a5fbec9f090c49ba93f31e200ce5ef9dc1e5927f21604f"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f4c7c038c07a70112f53d904eb730ce3ca2af7c6b8caba4437b1d88dc9df395b"
+hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
 metafile = true
 
 [[files]]
@@ -876,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "008e6362603c101935fdb4908a80d8a9b12f633b62fd31b9b4f8eb05ea1f211c"
+hash = "da737c61ebfa5818c3b9fc1bba15779f632cba8f63c738652ee81260c8e0a76f"
 metafile = true
 
 [[files]]

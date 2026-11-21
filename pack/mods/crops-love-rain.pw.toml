@@ -1,6 +1,6 @@
 name = "Crops Love Rain"
 filename = "cropsloverain-3.2.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cRci7UZp/versions/2wR3dP9w/cropsloverain-3.2.2.jar"

@@ -37,8 +37,7 @@ def side_of(project):
     c, s = project["client_side"], project["server_side"]
     if s == "unsupported":
         return "client"
-    if c == "unsupported":
-        return "server"
+    # "server-only" mods still run in single-player (the integrated server), so players need them too.
     return "both"
 
 
