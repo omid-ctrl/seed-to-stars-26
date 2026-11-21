@@ -21,10 +21,6 @@ file = "datapacks/sts_challenge/data/sts/advancement/bosses/elder.json"
 hash = "8d6e61daddfdd17fb1218ca7e9a80ccf93e2f1751485d75de2b43fb447fe090e"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/bosses/elytra 2.json"
-hash = "16d6cd4cd7fe91f14b20d4b8cc450e785b8e69a001d88f2fba56b94c2b65858d"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/bosses/elytra.json"
 hash = "16d6cd4cd7fe91f14b20d4b8cc450e785b8e69a001d88f2fba56b94c2b65858d"
 
@@ -49,20 +45,12 @@ file = "datapacks/sts_challenge/data/sts/advancement/bosses/mutant_enderman.json
 hash = "07b47a74407bc015c11de0aa3094f62555018d7c97b162092344861178753ab0"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/bosses/mutant_skeleton 2.json"
-hash = "7262832f7e9e1028768523a1aad25a46a0b113fc992e8641b42737c29399680f"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/bosses/mutant_skeleton.json"
 hash = "7262832f7e9e1028768523a1aad25a46a0b113fc992e8641b42737c29399680f"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/bosses/mutant_zombie.json"
 hash = "eb78f1046ab67da8cd256ce03a391a6643c1ff1b44573c34442eac9a9e100ad8"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/bosses/ominous_vault 2.json"
-hash = "e652f4d826eb87e9e3c30a866d9b5b68c9e980bdd536964a48ec71e8522c5cb7"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/bosses/ominous_vault.json"
@@ -75,10 +63,6 @@ hash = "b201908c22ae851197c27e2b8325baa4601f3817d1715fb8a0d6175e4d1281b5"
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/bosses/root.json"
 hash = "a04ce7657b67119a3909ec4c23376195631f7e167465049aa4937adf6c228c7b"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/bosses/trial 2.json"
-hash = "4d4142a65ecab14c6155349274a51195fd150588cd25d487460c3f7622f633a6"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/bosses/trial.json"
@@ -105,32 +89,16 @@ file = "datapacks/sts_challenge/data/sts/advancement/guide/belt.json"
 hash = "98f954c410b0114445c3d0a964ec2fe46bb88d1c89ad4941c4eeb2c50e27fa77"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/blaze 2.json"
-hash = "f0ab73250858513f2f8509d1a4dff6f491be65c4a6c20deb05afbc76eb2c2418"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/blaze.json"
 hash = "f0ab73250858513f2f8509d1a4dff6f491be65c4a6c20deb05afbc76eb2c2418"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_100k 2.json"
-hash = "b26477ed1dda5d46d1c3fbcd4f2fb0e4c52bfc33773531f1529d9ca00655c5dc"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_100k.json"
 hash = "b26477ed1dda5d46d1c3fbcd4f2fb0e4c52bfc33773531f1529d9ca00655c5dc"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_10k 2.json"
-hash = "0317ea89e55c98d98de10e5d5e42e81fc43eb3c12b256260378a087ef2b68276"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_10k.json"
 hash = "0317ea89e55c98d98de10e5d5e42e81fc43eb3c12b256260378a087ef2b68276"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_1k 2.json"
-hash = "dab592f7ca0a160682dc8ec9db74fce6b042b2741ffb86e310ee6498cab90fd5"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_1k.json"
@@ -145,72 +113,36 @@ file = "datapacks/sts_challenge/data/sts/advancement/guide/crops_500k.json"
 hash = "ce788caf68e090c231c340421efce095c8b431442230f3f2832a8ac769ba94ea"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/end 2.json"
-hash = "ad4498c81c46311abddb6c403f8392cd7ae65669d9fdc3a643da685f2b85bc4e"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/end.json"
 hash = "ad4498c81c46311abddb6c403f8392cd7ae65669d9fdc3a643da685f2b85bc4e"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/eye 2.json"
-hash = "28b10fb7e065c3f3f696c1a38ade770b3aaed00b43a6c622687495ee2eeb1fed"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/eye.json"
 hash = "28b10fb7e065c3f3f696c1a38ade770b3aaed00b43a6c622687495ee2eeb1fed"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/great_vault 2.json"
-hash = "bd9ded600e0486038d27b39061f53b6f8fab86937d6f25b9b67028592c6dc85e"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/great_vault.json"
 hash = "bd9ded600e0486038d27b39061f53b6f8fab86937d6f25b9b67028592c6dc85e"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/harvester 2.json"
-hash = "2452ed441c3f6da32250bec0ab234cd163070c2c9bc7a8a7cc3ae4c1abc2ebd6"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/harvester.json"
 hash = "2452ed441c3f6da32250bec0ab234cd163070c2c9bc7a8a7cc3ae4c1abc2ebd6"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/nether 2.json"
-hash = "968ed958e5b9174d6c4c7ea719f72565264665acf25f0fbdd269a7ec7ca62204"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/nether.json"
 hash = "968ed958e5b9174d6c4c7ea719f72565264665acf25f0fbdd269a7ec7ca62204"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/power 2.json"
-hash = "ad14a3b51adece3a654bcf1693f14f7e9f7b784142bdfa612802f20ad225bd3f"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/power.json"
 hash = "ad14a3b51adece3a654bcf1693f14f7e9f7b784142bdfa612802f20ad225bd3f"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/quarry 2.json"
-hash = "afa0ffd577bcea7dd9cbda28035a3590f242affa6022bf6198d7b8b2d9831972"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/quarry.json"
 hash = "afa0ffd577bcea7dd9cbda28035a3590f242affa6022bf6198d7b8b2d9831972"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/root 2.json"
-hash = "6c7191ddfce024fdcd02ca1b62b64d14bfc1716484bc4702946f994a486b399c"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/root.json"
 hash = "6c7191ddfce024fdcd02ca1b62b64d14bfc1716484bc4702946f994a486b399c"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/silo 2.json"
-hash = "f480a3135324c13cc76eae9c5d7aa3170ef75a684421370c8a4b004902cbd5d0"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/silo.json"
@@ -229,10 +161,6 @@ file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_copper_block.js
 hash = "ba42497c0a14386ed1a4b749fec4ed1f50e4eafb023c613486fbf9ccb6b631af"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_diamond_block 2.json"
-hash = "f1a36d1e82675cfbb5b2b876a1d0f7d06f70d6929c98c039066c194fe98e936b"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_diamond_block.json"
 hash = "f1a36d1e82675cfbb5b2b876a1d0f7d06f70d6929c98c039066c194fe98e936b"
 
@@ -249,10 +177,6 @@ file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_iron_block.json
 hash = "95c440f786f53fb4eb3c6c60731a51d0e6759cda68d375938ab665e444f1848e"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_lapis_block 2.json"
-hash = "e79bf6b96f6d84d2cd3812940a097c9b1138bbd8ce88f7786de57e51833cda5d"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_lapis_block.json"
 hash = "e79bf6b96f6d84d2cd3812940a097c9b1138bbd8ce88f7786de57e51833cda5d"
 
@@ -261,16 +185,8 @@ file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_netherite_block
 hash = "e8786ada2e6910f3340d1e5f02cf7e3d0c027d3707b13998631910e1f43fc780"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_redstone_block 2.json"
-hash = "549136e6f4e6bcf78904395e8e0be259693d5994c9eab918b7af4b19681861b9"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/vault_redstone_block.json"
 hash = "549136e6f4e6bcf78904395e8e0be259693d5994c9eab918b7af4b19681861b9"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/advancement/guide/water_wheel 2.json"
-hash = "93db4f7175c98ac97d3306d40402fd8bce338bf0a83d30fc67c4fb51cf3d499a"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/advancement/guide/water_wheel.json"
@@ -357,24 +273,12 @@ file = "datapacks/sts_challenge/data/sts/recipe/ore_vault.json"
 hash = "edff0281ead9e8b6d8dff1b2eb14074b4f03de7ca6805a3de7c87108e79724cb"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/tags/item/crops_1 2.json"
-hash = "80b71d18cd1a8616bf3dd9a161e736e0be7668d137a28d89f7881542ef28372a"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/tags/item/crops_1.json"
 hash = "80b71d18cd1a8616bf3dd9a161e736e0be7668d137a28d89f7881542ef28372a"
 
 [[files]]
-file = "datapacks/sts_challenge/data/sts/tags/item/crops_9 2.json"
-hash = "732e113a7ee65c5f864786a25e121ffe17fdbca52d821548eeff6524f0eb80c1"
-
-[[files]]
 file = "datapacks/sts_challenge/data/sts/tags/item/crops_9.json"
 hash = "732e113a7ee65c5f864786a25e121ffe17fdbca52d821548eeff6524f0eb80c1"
-
-[[files]]
-file = "datapacks/sts_challenge/data/sts/tags/item/crops_any 2.json"
-hash = "57410763643dd14babdd8812853b4f8fb8121652875fc40603fa6c97107a7fa8"
 
 [[files]]
 file = "datapacks/sts_challenge/data/sts/tags/item/crops_any.json"
