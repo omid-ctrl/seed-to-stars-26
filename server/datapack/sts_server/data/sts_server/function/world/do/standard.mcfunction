@@ -1,0 +1,1 @@
+say STSWORLD|switch|standard

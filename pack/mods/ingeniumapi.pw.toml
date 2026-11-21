@@ -1,0 +1,13 @@
+name = "Ingenium API"
+filename = "ingeniumapi-1.1-FABRIC-MC-26.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bhnA6sV8/versions/bRhQB9Tl/ingeniumapi-1.1-FABRIC-MC-26.X.jar"
+hash-format = "sha512"
+hash = "680ce9a30090466b8e475706d99a5bd733fc423abde58d6be668ee8afca0309ba990e497f5dbc1b63f3b30cc3f24a935f91c06fd4e9a2f93c9a5f89aa5b91445"
+
+[update]
+[update.modrinth]
+mod-id = "bhnA6sV8"
+version = "bRhQB9Tl"

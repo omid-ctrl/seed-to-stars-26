@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/toughasnails/thirst.toml"
+hash = "9a69a26bf9eadd6b741a91aab0adf03f98796b8df86ef7ec034708c1ee09cc2e"
+
+[[files]]
 file = "datapacks/sts_challenge/data/minecraft/tags/function/load.json"
 hash = "29765f467107c6266f06cf62d033216e33d4fdfc98f41950cbc9eafd851791a8"
 
@@ -604,6 +608,11 @@ hash = "011c7851dffa5f30034ccc579195aea5898d2aae0a30d6560776c0f4c5af6df4"
 metafile = true
 
 [[files]]
+file = "mods/ingeniumapi.pw.toml"
+hash = "b56a817e6cc6320266d9361121849915efccf265b06c5d26b171e8db6ea16b39"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "6afdd9a4f55afb1f553f2cef664d05c70680263cfb327f951755452f2c34670d"
 metafile = true
@@ -789,6 +798,11 @@ hash = "5c936adcf3613da5f24d56ed8d3bed5b2414881e45ea7ce5d6c12ba2b93f6d2b"
 metafile = true
 
 [[files]]
+file = "mods/sails-and-airships.pw.toml"
+hash = "f706ed8160db4b62ac5a4c332d5d57e262265947368027936ba02fef4bca709e"
+metafile = true
+
+[[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "2ca2241e2ee0639fce7abfcf4c1d0db06403ba30821cd934c14a52940a453557"
 metafile = true
@@ -806,6 +820,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "cea2d8277c3c28960e6096e84830590deaaec6b6febeaa6bc7c044f2d16e8399"
+metafile = true
+
+[[files]]
+file = "mods/shippy-ships.pw.toml"
+hash = "53864e1d260a5bfe11219d3d981c09449069ebd85f2b160351b737ff3270e8ce"
 metafile = true
 
 [[files]]
@@ -865,6 +884,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "bc0c5ffc96724c0abe8d473bdaaa586e9e2b9af773e0943ae815848a12b28eb4"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "bb130a8328f8237bab7d1222233d2193587097b5a6f5265ab2d5d85929124e46"
 metafile = true
 
 [[files]]

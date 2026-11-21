@@ -11,7 +11,8 @@ import shutil
 from pathlib import Path
 
 WORLDS = [("crash", "The Crash (Island)"), ("winter", "Eternal Winter (Snow)"), ("islands", "Tiny Islands (Ocean)"),
-          ("wasteland", "Wasteland (Desert)"), ("amplified", "Amplified Snow (fresh world)")]
+          ("wasteland", "Wasteland (Desert)"), ("amplified", "Amplified Snow (fresh world)"),
+          ("standard", "Standard BOP, snow start (fresh world)")]
 OUT = Path(__file__).resolve().parent / "datapack" / "sts_server"
 
 
