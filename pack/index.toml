@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "6b19c8d1e252aadd712364df3b1aa2be3a175ed574dafb2a27cd17de4cc4d9e2"
+
+[[files]]
 file = "config/toughasnails/thirst.toml"
 hash = "9a69a26bf9eadd6b741a91aab0adf03f98796b8df86ef7ec034708c1ee09cc2e"
 
